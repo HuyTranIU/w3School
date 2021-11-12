@@ -1,0 +1,20 @@
+/* Pc */
+@media (min-width: 1024) {
+    
+}
+
+/* Table */
+@media (min-width: 740) and (max-width: 1023) {
+    
+}
+
+/* Mobile */
+@media (max-width: 740px) {
+    #nav li {
+        display: block;
+    }
+
+    #header .search-btn {
+        display: none;
+    }
+}
