@@ -99,7 +99,6 @@ Trình tự làm từ ngoài vào trong -> Từ trên xuống dưới
     left: 0px;
     right: 0px;
     z-index: 1;
-    overflow: hidden;
 /* height: 46px;
 background-color: black; */
 }
@@ -166,6 +165,14 @@ background-color: black; */
 #nav .nav-arrow-down {
     font-size: 12px;
 }
+
+#header .mobile-mmenu-btn {
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: none;
+}
+
 #header .mobile-mmenu-btn,
 #header .search-btn{
     float: right;
