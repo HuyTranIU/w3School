@@ -87,9 +87,7 @@ Trình tự làm từ ngoài vào trong -> Từ trên xuống dưới
     width: 100%;
 }
 /* Main */
-#main {
 
-}
 
 #header {
     height: 46px;
@@ -251,9 +249,6 @@ background-color: black; */
 
 
 
-#content {
- 
-}
 
 #content .content-section{
     width: 800px;
